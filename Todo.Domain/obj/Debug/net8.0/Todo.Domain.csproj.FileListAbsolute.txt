@@ -1,0 +1,11 @@
+/Users/janegovenko/Downloads/DSSII_2025_TODOS-main/Todo.Domain/bin/Debug/net8.0/Todo.Domain.deps.json
+/Users/janegovenko/Downloads/DSSII_2025_TODOS-main/Todo.Domain/bin/Debug/net8.0/Todo.Domain.dll
+/Users/janegovenko/Downloads/DSSII_2025_TODOS-main/Todo.Domain/bin/Debug/net8.0/Todo.Domain.pdb
+/Users/janegovenko/Downloads/DSSII_2025_TODOS-main/Todo.Domain/obj/Debug/net8.0/Todo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janegovenko/Downloads/DSSII_2025_TODOS-main/Todo.Domain/obj/Debug/net8.0/Todo.Domain.AssemblyInfoInputs.cache
+/Users/janegovenko/Downloads/DSSII_2025_TODOS-main/Todo.Domain/obj/Debug/net8.0/Todo.Domain.AssemblyInfo.cs
+/Users/janegovenko/Downloads/DSSII_2025_TODOS-main/Todo.Domain/obj/Debug/net8.0/Todo.Domain.csproj.CoreCompileInputs.cache
+/Users/janegovenko/Downloads/DSSII_2025_TODOS-main/Todo.Domain/obj/Debug/net8.0/Todo.Domain.dll
+/Users/janegovenko/Downloads/DSSII_2025_TODOS-main/Todo.Domain/obj/Debug/net8.0/refint/Todo.Domain.dll
+/Users/janegovenko/Downloads/DSSII_2025_TODOS-main/Todo.Domain/obj/Debug/net8.0/Todo.Domain.pdb
+/Users/janegovenko/Downloads/DSSII_2025_TODOS-main/Todo.Domain/obj/Debug/net8.0/ref/Todo.Domain.dll

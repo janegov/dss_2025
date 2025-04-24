@@ -1,0 +1,17 @@
+/Users/janegovenko/Downloads/DSSII_2025_TODOS-main/Todo.Infrastructure/obj/Debug/net6.0/Todo.Infrastructure.csproj.AssemblyReference.cache
+/Users/janegovenko/Downloads/DSSII_2025_TODOS-main/Todo.Infrastructure/obj/Debug/net6.0/Todo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janegovenko/Downloads/DSSII_2025_TODOS-main/Todo.Infrastructure/obj/Debug/net6.0/Todo.Infrastructure.AssemblyInfoInputs.cache
+/Users/janegovenko/Downloads/DSSII_2025_TODOS-main/Todo.Infrastructure/obj/Debug/net6.0/Todo.Infrastructure.AssemblyInfo.cs
+/Users/janegovenko/Downloads/DSSII_2025_TODOS-main/Todo.Infrastructure/obj/Debug/net6.0/Todo.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/janegovenko/Downloads/DSSII_2025_TODOS-main/Todo.Infrastructure/bin/Debug/net6.0/Todo.Infrastructure.deps.json
+/Users/janegovenko/Downloads/DSSII_2025_TODOS-main/Todo.Infrastructure/bin/Debug/net6.0/Todo.Infrastructure.runtimeconfig.json
+/Users/janegovenko/Downloads/DSSII_2025_TODOS-main/Todo.Infrastructure/bin/Debug/net6.0/Todo.Infrastructure.dll
+/Users/janegovenko/Downloads/DSSII_2025_TODOS-main/Todo.Infrastructure/bin/Debug/net6.0/Todo.Infrastructure.pdb
+/Users/janegovenko/Downloads/DSSII_2025_TODOS-main/Todo.Infrastructure/bin/Debug/net6.0/Todo.Domain.dll
+/Users/janegovenko/Downloads/DSSII_2025_TODOS-main/Todo.Infrastructure/bin/Debug/net6.0/Todo.Domain.pdb
+/Users/janegovenko/Downloads/DSSII_2025_TODOS-main/Todo.Infrastructure/obj/Debug/net6.0/Todo.Inf.6F6EFB04.Up2Date
+/Users/janegovenko/Downloads/DSSII_2025_TODOS-main/Todo.Infrastructure/obj/Debug/net6.0/Todo.Infrastructure.dll
+/Users/janegovenko/Downloads/DSSII_2025_TODOS-main/Todo.Infrastructure/obj/Debug/net6.0/refint/Todo.Infrastructure.dll
+/Users/janegovenko/Downloads/DSSII_2025_TODOS-main/Todo.Infrastructure/obj/Debug/net6.0/Todo.Infrastructure.pdb
+/Users/janegovenko/Downloads/DSSII_2025_TODOS-main/Todo.Infrastructure/obj/Debug/net6.0/Todo.Infrastructure.genruntimeconfig.cache
+/Users/janegovenko/Downloads/DSSII_2025_TODOS-main/Todo.Infrastructure/obj/Debug/net6.0/ref/Todo.Infrastructure.dll
